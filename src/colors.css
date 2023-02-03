@@ -1,0 +1,66 @@
+.lemon-primary {
+  background-color: #226f54;
+}
+.lemon-secondary {
+  background-color: #e09f3e;
+  border-color: #e09f3e;
+}
+
+.lemon-secondary:hover {
+  background-color: #dd962c;
+}
+
+.white {
+  color: white;
+}
+
+.center {
+  text-align: center;
+}
+.m-top-25 {
+  margin-top: 25px;
+}
+
+.m-bottom-25 {
+  margin-bottom: 25px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.btn {
+  width: 50%;
+}
+
+.br {
+  border-color: #226f54;
+  border-width: 2px;
+}
+
+.bt {
+  border-width: 0px;
+}
+
+.messiri {
+  font-family: ElMessiri;
+}
+
+.bodoni {
+  font-family: bodoni;
+}
+.bodoni-bold {
+  font-family: bodoni-bold;
+}
+
+.w-100 {
+  width: 100%;
+}
